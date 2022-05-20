@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlmcgeenc/tailwind-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlmcgeenc/tailwind-basics/issues"
+  },
+  "homepage": "https://github.com/mlmcgeenc/tailwind-basics#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
